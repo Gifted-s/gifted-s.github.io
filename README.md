@@ -43,8 +43,7 @@ _Passionate about Database Systems, Big Data, and Education_
 **Synopsis:** [Recognized](https://x.com/andy_pavlo/status/1820436583977275426) as the first database emerging from Nigeria by Professor Andy Pavlo from Carnegie Mellon University. VelarixDB is a key-value store that reduces IO amplification during compaction by separating keys from values inspired by the WiscKey Paper from the University of Wisconsin-Madison. It uses asynchronous IO based on the recent adoption of io_uring on Linux, showing up to [60%](https://github.com/tokio-rs/tokio-uring/blob/master/DESIGN.md#:~:text=show%20up%20to-,60%25%20improvement.,-Though%20not%20yet) improvement when compared to epoll. It is developed in Rust for memory safety. WiscKey benchmark shows 1.4 to 14 times faster random lookups and 2.5 to 111 times speedier database loading than RocksDB
 
 - Built experimental version in Rust with features such as Size-Tier Compaction, Garbage Collector, Crash Recovery, Bloom Filter, and Value Log.
-- Leveraged a Lock-Free data structure (SkipMap) from the Crossbeam library for the Memtable, eliminating traditional locking mechanisms like Mutexes and reducing thread contention
-- Published an article reviewed by Umesh Joshi to help other researchers understand the project design and motivation <br/>
+- Leveraged a Lock-Free data structure (SkipMap) from the Crossbeam library for the Memtable, eliminating traditional locking mechanisms like Mutexes and reducing thread contention <br/>
  [Official Documentation](https://crates.io/crates/velarixdb) | [Code](https://github.com/Gifted-s/velarixdb) | [WiscKey Paper](https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf)
 
 
