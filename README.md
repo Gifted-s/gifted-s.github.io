@@ -62,9 +62,9 @@ _Passionate about Database Systems, Big Data, and Education_
 ## Professional Experience
 
 ### **Acronis (Senior Software Engineer), Jan 2023 - Jan 2024**  
-- Built a data pipeline collecting and computing 45+ metrics for analysis.  
-- Ensured newly developed services aligned with customer needs.  
-- Resolved 50+ bugs using Kubernetes pod logs, Kibana logs, and Grafana.
+- Built a data pipeline that periodically collects and computes 45 metrics and sends it to the data warehouse for analysis, used by product managers to determine aspects of the product to improve.
+- Ensured a newly developed service, Advanced Automations, align with customer needs by coordinating meetings with the Acronis Customer Experience (ACEP) team
+- Resolved 50+ bugs using Kubernetes pod logs, Kibana logs, Grafana and collaborating with the QA team, 
 
 ---
 
