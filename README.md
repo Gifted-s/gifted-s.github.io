@@ -86,7 +86,7 @@ _Passionate about Database Systems, Big Data, and Education_
 - **CSC 201: Python Programming**  
   - ***Topics:*** Object Oriented Programming, Control Flows, Function, Data Types. Variables, Modularization, Comments  
   - ***Duties:*** Taught theoretical and practical classes, prepared assignments and test questions, evaluated students’ performance
-  - ***Class Size:** 70+ students
+  - ***Class Size:*** 70+ students
 
 - **CSC 305: Systems Programming in C**  
   - ***Topics:*** Socket programming, Control Flows, Data Types, Functions, Variable, Modularization, Library usage 
@@ -125,7 +125,7 @@ _Passionate about Database Systems, Big Data, and Education_
 
 ## Volunteer Experience
 
-### Social Media Manager, IA Foundation  
+### Social Media Manager, IA Foundation [Website](https://ia-foundation.org/) 
 **Jun 2024 - Pres**  
 - Helped raise awareness of Nigeria’s 18.3 million out-of-school children through engaging content.
 
@@ -139,6 +139,6 @@ _Passionate about Database Systems, Big Data, and Education_
 ---
 
 ## Extra Curricular Activities
-- **Pianist:** Jazz genre , Watch me play! [♫!](https://firebasestorage.googleapis.com/v0/b/generalsapi.appspot.com/o/IMG_0643.mov?alt=media&token=97125dba-7592-4259-b231-8776aced83b1)
+- **Pianist:** Jazz genre , Watch me play! [♫!](https://drive.google.com/file/d/1h_Ale6Q3nNra3fZNqJnGIan9vJu3VTQA/view?usp=sharing)
 - **Men’s Gymnastics (Ekiti State Team):** Floor, Parallel Bars, and Vault Exercise  [Ekiti State Blog](https://www.ekitistate.gov.ng/archives/6116)
 
