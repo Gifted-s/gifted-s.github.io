@@ -90,7 +90,7 @@ _Passionate about Database Systems, Big Data, and Education_
 
 - **CSC 305: Systems Programming in C**  
   - ***Topics:*** Socket programming, Control Flows, Data Types, Functions, Variable, Modularization, Library usage 
-  - ***Taught:*** Taught theoretical and practical classes, prepared assignments and test questions, evaluated students’ performance
+  - ***Duties:*** Taught theoretical and practical classes, prepared assignments and test questions, evaluated students’ performance
   - ***Class Size***: 30+ students
 
 - **PHY 101, General Physics**  
