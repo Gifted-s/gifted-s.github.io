@@ -39,8 +39,8 @@ _Passionate about Database Systems, Big Data, and Education_
 
 ### Independent Researcher
 **Title:** VelarixDB, an LSM Storage Engine that reducing IO amplification <br/>
-**Advisor:** Professor O.C Akinyokun  
-**Synopsis:** [Recognized](https://x.com/andy_pavlo/status/1820436583977275426) as the first database emerging from Nigeria by Professor Andy Pavlo from Carnegie Mellon University. VelarixDB is a key-value store that reduces IO amplification during compaction by separating keys from values inspired by the WiscKey Paper from the University of Wisconsin-Madison. It uses asynchronous IO based on the recent adoption of io_uring on Linux, showing up to [60%](https://github.com/tokio-rs/tokio-uring/blob/master/DESIGN.md#:~:text=show%20up%20to-,60%25%20improvement.,-Though%20not%20yet) improvement when compared to epoll. It is developed in Rust for memory safety. WiscKey benchmark shows 1.4 to 14 times faster random lookups and 2.5 to 111 times speedier database loading than RocksDB
+**Advisor:** Adewumi Sunkanmi (self)  
+**Synopsis:** [Recognized](https://x.com/andy_pavlo/status/1820436583977275426) as the first database emerging from Nigeria by Professor Andy Pavlo from Carnegie Mellon University. VelarixDB is a key-value store that reduces IO amplification during compaction by separating keys from values inspired by the WiscKey Paper from the University of Wisconsin-Madison. It uses asynchronous IO based on the recent adoption of io_uring on Linux, showing up to [60%](https://github.com/tokio-rs/tokio-uring/blob/master/DESIGN.md#:~:text=show%20up%20to-,60%25%20improvement.,-Though%20not%20yet) improvement when compared to epoll. It is developed in Rust for memory safety. WiscKey benchmark shows 1.4 to 14 times faster random lookups and 2.5 to 111 times speedier database loading than RocksDB.
 
 - Built experimental version in Rust with features such as Size-Tier Compaction, Garbage Collector, Crash Recovery, Bloom Filter, and Value Log.
 - Leveraged a Lock-Free data structure (SkipMap) from the Crossbeam library for the Memtable, eliminating traditional locking mechanisms like Mutexes and reducing thread contention <br/>
