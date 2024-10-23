@@ -5,7 +5,7 @@
 [![GitHub](https://cdn-icons-png.flaticon.com/512/25/25231.png =20x20)](https://github.com/Gifted-s)
 [![Twitter](https://cdn-icons-png.flaticon.com/512/733/733579.png =20x20)](https://twitter.com/gifted_dl)
 [![Email](https://cdn-icons-png.flaticon.com/512/732/732200.png =20x20)](mailto:sunkanmiadewumi1@gmail.com)
-[![Recommendations](https://cdn-icons-png.flaticon.com/512/134/134932.png =20x20)]([https://your-recommendation-link.com](https://www.linkedin.com/in/adewumisunkanmi/#:~:text=Recommendations,Recommendations))
+[![Recommendations](https://cdn-icons-png.flaticon.com/512/134/134932.png =20x20)](https://www.linkedin.com/in/adewumisunkanmi/#:~:text=Recommendations,Recommendations)
 
 # Adewumi Sunkanmi  
 **Software Engineer**  
