@@ -1,10 +1,10 @@
 ![Adewumi Sunkanmi](https://firebasestorage.googleapis.com/v0/b/generalsapi.appspot.com/o/DOC-20230730-WA0025.jpeg?alt=media&token=44963a33-8f13-4825-94e8-d48b411660e5)
 
 
-[![Email](https://img.icons8.com/ios-filled/50/000000/email.png)](mailto:your.email@example.com) 
-[![Twitter](https://img.icons8.com/ios-filled/50/000000/twitter.png)](https://twitter.com/YourTwitterHandle) 
-[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://linkedin.com/in/YourLinkedInProfile) 
-[![Recommendation](https://img.icons8.com/ios-filled/50/000000/checkmark.png)](YourBadgeLink)
+[![Email](https://img.icons8.com/material-outlined/24/000000/email.png)](mailto:your.email@example.com) 
+[![Twitter](https://img.icons8.com/material-outlined/24/000000/twitter.png)](https://twitter.com/YourTwitterHandle) 
+[![LinkedIn](https://img.icons8.com/material-outlined/24/000000/linkedin.png)](https://linkedin.com/in/YourLinkedInProfile) 
+[![Recommendation](https://img.icons8.com/material-outlined/24/000000/checkmark.png)](YourBadgeLink)
 
 # Adewumi Sunkanmi  
 **Software Engineer**  
@@ -65,18 +65,16 @@ _B.Tech Computer Science_ (2017 - 2024)
 
 <p><img src="https://firebasestorage.googleapis.com/v0/b/generalsapi.appspot.com/o/AC.png?alt=media&token=b2d938ea-e9e9-41cd-83c8-2e05dec9a2d5" alt="Acronis Logo" width="50" />  </p>
 
-### **Acronis (Senior Software Engineer)**  
-**Jan 2023 - Jan 2024**  
+### **Acronis (Senior Software Engineer) Jan 2023 - Jan 2024**  
 - Built a data pipeline collecting and computing 45+ metrics for analysis.  
 - Ensured newly developed services aligned with customer needs.  
 - Resolved 50+ bugs using Kubernetes pod logs, Kibana logs, and Grafana.
 
 ---
 
-<p><img src="https://firebasestorage.googleapis.com/v0/b/generalsapi.appspot.com/o/Drop.jpeg?alt=media&token=ebcd31c6-8d58-45c1-8c13-53f3c01c959e" alt="Droppofy Logo" width="50" /></p> 
+<p><img src="https://firebasestorage.googleapis.com/v0/b/generalsapi.appspot.com/o/Drop.jpeg?alt=media&token=ebcd31c6-8d58-45c1-8c13-53f3c01c959e" alt="Droppofy Logo" width="90" /></p> 
 
-### **Droppofy (Part-time Software Engineer)**
-**Feb 2022 - Jan 2023**
+### **Droppofy (Part-time Software Engineer) Feb 2022 - Jan 2023**
 - Reduced latency of fetching users' analytics data by 52% by caching on Redis to prevent redundant database calls  
 - Designed, implemented, and documented over 70% of the API endpoints with NodeJS and MongoDB
 
@@ -84,8 +82,7 @@ _B.Tech Computer Science_ (2017 - 2024)
 
 <p><img src="https://firebasestorage.googleapis.com/v0/b/generalsapi.appspot.com/o/Screenshot%202024-10-23%20at%2019.53.01.png?alt=media&token=bdfdea97-8967-46fe-9812-e70d4c34db88" alt="Remote Africa" width="200" /></p>  
 
-### RemoteAfrica (Software Engineer Intern)
-**Sep 2020 - Dec 2020**
+### **RemoteAfrica (Software Engineer Intern) Sep 2020 - Dec 2020**
 - Convinced a team of 11 to adopt effective MongoDB schema design patterns, leading to a 40% increase in the query speed.
 - Mentored a junior intern through pair programming sessions, enhancing their confidence and promoting teamwork.
 
