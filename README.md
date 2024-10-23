@@ -1,13 +1,12 @@
 ![Adewumi Sunkanmi](https://firebasestorage.googleapis.com/v0/b/generalsapi.appspot.com/o/DOC-20230730-WA0025.jpeg?alt=media&token=44963a33-8f13-4825-94e8-d48b411660e5)
 
 
-[![Email](https://img.icons8.com/material-outlined/24/000000/email.png)](mailto:your.email@example.com) 
-[![Twitter](https://img.icons8.com/material-outlined/24/000000/twitter.png)](https://twitter.com/YourTwitterHandle) 
-[![LinkedIn](https://img.icons8.com/material-outlined/24/000000/linkedin.png)](https://linkedin.com/in/YourLinkedInProfile) 
-[![Recommendation](https://img.icons8.com/material-outlined/24/000000/checkmark.png)](YourBadgeLink)
+[![Email](https://img.icons8.com/material-outlined/24/000000/email.png)](mailto:sunkanmiadewumi477@gmail.com) 
+[![Twitter](https://img.icons8.com/material-outlined/24/000000/twitter.png)](https://x.com/gifted_dl) 
+[![LinkedIn](https://img.icons8.com/material-outlined/24/000000/linkedin.png)](https://www.linkedin.com/in/adewumisunkanmi/) 
+[![Recommendation](https://img.icons8.com/material-outlined/24/000000/checkmark.png)](https://www.linkedin.com/in/adewumisunkanmi/#:~:text=Recommendations,Recommendations)
 
 # Adewumi Sunkanmi  
-**Software Engineer**  
 _Passionate about Database Systems, Big Data, and Education_
 
 <p>Data is crucial to many organizations, from driving decisions to training AI models. Despite this immense potential, it can come from diverse sources in different formats, structures, and sizes, making data management non-trivial. The wide range of use cases for data provides ample room for innovation inspiring my interest in Database Systems, Big Data Analytics and Data Engineering.</p>
@@ -23,7 +22,7 @@ _Passionate about Database Systems, Big Data, and Education_
 
 ## Education  
 **Federal University of Technology Akure**  
-_B.Tech Computer Science_ (2017 - 2024)  
+**Degree:** B.Tech Computer Science_ (2017 - 2024)  
 **Grade:** First Class Honors  
 **GPA:** 4.54/5.00 (Class Rank 3 of 50 students)  
 **Relevant Coursework:**  
@@ -40,14 +39,13 @@ _B.Tech Computer Science_ (2017 - 2024)
 
 ### Independent Researcher (Dec 2023 - Present)
 **Title:** VelarixDB, Tackling the Challenge of I/O Amplification in LSM Storage Engines
-**Advisor:** Professor O.C Akinyokun  
-**Synopsis:**  [Recognized](https://x.com/andy_pavlo/status/1820436583977275426) as the first database from Nigeria by Professor Andy Pavlo from Carnegie Mellon University. A key-value store that reduces IO amplification during compaction by separating keys from values inspired by the WiscKey Paper from the University of Wisconsin-Madison. It uses asynchronous IO based on the recent adoption of io_uring on Linux, showing up to [60%](https://github.com/tokio-rs/tokio-uring/blob/master/DESIGN.md#:~:text=show%20up%20to-,60%25%20improvement.,-Though%20not%20yet) improvement compared to epoll. Written in Rust for memory safety. WiscKey benchmarks shows 1.4 to 14 times faster random lookups and 2.5 to 111 times speedier database loading than RocksDB.
+**Advisor:** Adewumi Sunkanmi
+**Synopsis:** [Recognized](https://x.com/andy_pavlo/status/1820436583977275426) as the first database from Nigeria by Professor Andy Pavlo from Carnegie Mellon University. A key-value store that reduces IO amplification during compaction by separating keys from values inspired by the WiscKey Paper from the University of Wisconsin-Madison. It uses asynchronous IO based on the recent adoption of io_uring on Linux, showing up to [60%](https://github.com/tokio-rs/tokio-uring/blob/master/DESIGN.md#:~:text=show%20up%20to-,60%25%20improvement.,-Though%20not%20yet) improvement compared to epoll. Written in Rust for memory safety. WiscKey benchmarks shows 1.4 to 14 times faster random lookups and 2.5 to 111 times speedier database loading than RocksDB.
 
 - Built experimental version with core features such as Size-Tiered Compaction, Garbage Collector, Crash Recovery, Bloom Filter, and Value Log, and MemTable
 - Improved concurrency by leveraging lock-free SkipMap from the Crossbeam library to store entries in MemTable
 - Uses asynchronous IO based on io_uring, showing up to 60% improvement compared to epoll.  
 
----
 
 ### Undergraduate Thesis (Jun 2023 - Dec 2023)
 **Title:** Design and Implementation of a Road Safety Database in Nigeria  
@@ -86,25 +84,25 @@ _B.Tech Computer Science_ (2017 - 2024)
 
 ### Academic Unit Tutor, Christian Student Fellowship (CSF), Federal University of Technology Akure  
 - **CSC 201: Python Programming**  
-  - ***Topics***: Object Oriented Programming, Control Flows, Function, Data Types. Variables, Modularization, Comments  
-  - ***Taught*** Theoretical and practical classes, prepared assignments and test questions, evaluated students’ performance
-  - _Class Size: 70+ students_
+  - ***Topics:*** Object Oriented Programming, Control Flows, Function, Data Types. Variables, Modularization, Comments  
+  - ***Duties:*** Taught theoretical and practical classes, prepared assignments and test questions, evaluated students’ performance
+  - ***Class Size: 70+ students***
 
 - **CSC 305: Systems Programming in C**  
-  - ***Topics***: Socket programming, Control Flows, Data Types, Functions, Variable, Modularization, Library usage 
-  - ***Taught***  Taught theoretical and practical classes, prepared assignments and test questions, evaluated students’ performance
-  - _Class Size: 30+ students_
+  - ***Topics:*** Socket programming, Control Flows, Data Types, Functions, Variable, Modularization, Library usage 
+  - ***Taught:*** Taught theoretical and practical classes, prepared assignments and test questions, evaluated students’ performance
+  - ***Class Size***: 30+ students
 
 - **PHY 101, General Physics**  
-  - ***Topics***: Topics: Scalar and Vector Quantities, Kinematics, Projectile, Work, Power, Energy, Electricity, Equilibrium,  Gravitation 
-  - ***Taught***  Duties: Taught theoretical classes, prepared assignments and test questions, evaluated students’ performance
-  - _Class Size: 100+ students_
+  - ***Topics:*** Topics: Scalar and Vector Quantities, Kinematics, Projectile, Work, Power, Energy, Electricity, Equilibrium,  Gravitation 
+  - ***Duties:*** Taught theoretical classes, prepared assignments and test questions, evaluated students’ performance
+  - ***Class Size:*** 100+ students
 
 ---
 
 ## Awards & Scholarships
 - **Ekiti State Scholarship Award:**  Awarded to students on first-class GPA by their second year. A sum of ₦60,000 is awarded every session from the second year to the final year
-- **Dean's List:** [Placement on the Dean's List](https://drive.google.com/file/d/1UMrIP8XLigWOWi6GEfqPjcHKgoBPXqkT/view) for the 2018/2019 academic session by the Senate of the Federal University of Technology Akure after achieving a 4.72 GPA in the 2017/2018 academic session
+- **Dean's List:** Placement on the [Dean's List](https://drive.google.com/file/d/1UMrIP8XLigWOWi6GEfqPjcHKgoBPXqkT/view) for the 2018/2019 academic session by the Senate of the Federal University of Technology Akure after achieving a 4.72 GPA in the 2017/2018 academic session
 
 ---
 
