@@ -61,20 +61,20 @@ _Passionate about Database Systems, Big Data, and Education_
 
 ## Professional Experience
 
-### **Acronis (Senior Software Engineer) Jan 2023 - Jan 2024**  
+### **Acronis (Senior Software Engineer), Jan 2023 - Jan 2024**  
 - Built a data pipeline collecting and computing 45+ metrics for analysis.  
 - Ensured newly developed services aligned with customer needs.  
 - Resolved 50+ bugs using Kubernetes pod logs, Kibana logs, and Grafana.
 
 ---
 
-### **Droppofy (Part-time Software Engineer) Feb 2022 - Jan 2023**
+### **Droppofy (Part-time Software Engineer), Feb 2022 - Jan 2023**
 - Reduced latency of fetching users' analytics data by 52% by caching on Redis to prevent redundant database calls  
 - Designed, implemented, and documented over 70% of the API endpoints with NodeJS and MongoDB
 
 ---
 
-### **RemoteAfrica (Software Engineer Intern) Sep 2020 - Dec 2020**
+### **RemoteAfrica (Software Engineer Intern), Sep 2020 - Dec 2020**
 - Convinced a team of 11 to adopt effective MongoDB schema design patterns, leading to a 40% increase in the query speed.
 - Mentored a junior intern through pair programming sessions, enhancing their confidence and promoting teamwork.
 
