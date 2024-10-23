@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.icons8.com/material-outlined/24/000000/linkedin.png)](https://www.linkedin.com/in/adewumisunkanmi/) 
 [![Recommendation](https://img.icons8.com/material-outlined/24/000000/checkmark.png)](https://www.linkedin.com/in/adewumisunkanmi/#:~:text=Recommendations,Recommendations)
 
-# Adewumi Sunkanmi  
+# Adewumi Sunkanmi D.
 _Passionate about Database Systems, Big Data, and Education_
 
 <p>Data is crucial to many organizations, from driving decisions to training AI models. Despite this immense potential, it can come from diverse sources in different formats, structures, and sizes, making data management non-trivial. The wide range of use cases for data provides ample room for innovation inspiring my interest in Database Systems, Big Data Analytics and Data Engineering.</p>
