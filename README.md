@@ -1,17 +1,17 @@
-![Adewumi Sunkanmi - Software Engineer](https://firebasestorage.googleapis.com/v0/b/generalsapi.appspot.com/o/DOC-20230730-WA0025.png?alt=media&token=3ca31b20-776e-425a-91b7-c9a7307371a6)
+![Adewumi Sunkanmi](https://firebasestorage.googleapis.com/v0/b/generalsapi.appspot.com/o/DOC-20230730-WA0025.jpeg?alt=media&token=44963a33-8f13-4825-94e8-d48b411660e5)
 
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png =20x20)](https://www.linkedin.com/in/adewumisunkanmi/)
-[![GitHub](https://cdn-icons-png.flaticon.com/512/25/25231.png =20x20)](https://github.com/Gifted-s)
-[![Twitter](https://cdn-icons-png.flaticon.com/512/733/733579.png =20x20)](https://twitter.com/gifted_dl)
-[![Email](https://cdn-icons-png.flaticon.com/512/732/732200.png =20x20)](mailto:sunkanmiadewumi1@gmail.com)
-[![Recommendations](https://cdn-icons-png.flaticon.com/512/134/134932.png =20x20)](https://www.linkedin.com/in/adewumisunkanmi/#:~:text=Recommendations,Recommendations)
+[![Email](https://img.icons8.com/ios-filled/50/000000/email.png)](mailto:your.email@example.com) 
+[![Twitter](https://img.icons8.com/ios-filled/50/000000/twitter.png)](https://twitter.com/YourTwitterHandle) 
+[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://linkedin.com/in/YourLinkedInProfile) 
+[![Recommendation](https://img.icons8.com/ios-filled/50/000000/checkmark.png)](YourBadgeLink)
 
 # Adewumi Sunkanmi  
 **Software Engineer**  
 _Passionate about Database Systems, Big Data, and Education_
 
-Data is crucial to many organizations, from driving decisions to training AI models. Despite this immense potential, it can come from diverse sources in different formats, structures, and sizes, making data management non-trivial. The wide range of use cases for data provides ample room for innovation inspiring my interest in Database Systems, Big Data Analytics and Data Engineering.
+<p>Data is crucial to many organizations, from driving decisions to training AI models. Despite this immense potential, it can come from diverse sources in different formats, structures, and sizes, making data management non-trivial. The wide range of use cases for data provides ample room for innovation inspiring my interest in Database Systems, Big Data Analytics and Data Engineering.</p>
+
 ---
 
 ## Research Interests
@@ -63,26 +63,29 @@ _B.Tech Computer Science_ (2017 - 2024)
 
 ## Professional Experience
 
-<img src="https://firebasestorage.googleapis.com/v0/b/generalsapi.appspot.com/o/AC.png?alt=media&token=b2d938ea-e9e9-41cd-83c8-2e05dec9a2d5" alt="Acronis Logo" width="50" />  
+<p><img src="https://firebasestorage.googleapis.com/v0/b/generalsapi.appspot.com/o/AC.png?alt=media&token=b2d938ea-e9e9-41cd-83c8-2e05dec9a2d5" alt="Acronis Logo" width="50" />  </p>
+
 ### **Acronis (Senior Software Engineer)**  
 **Jan 2023 - Jan 2024**  
-- Built a data pipeline that periodically collects and computes 45 metrics and sends it to the data warehouse for analysis, used by product managers to determine aspects of the product to improve.  
-- Ensured 4 newly developed services align with customer needs by coordinating meetings with the Acronis Customer Experience (ACEP) team.
-- Resolved 50+ bugs using Kubernetes pod logs, Kibana logs, Grafana and collaborating with the QA team.
+- Built a data pipeline collecting and computing 45+ metrics for analysis.  
+- Ensured newly developed services aligned with customer needs.  
+- Resolved 50+ bugs using Kubernetes pod logs, Kibana logs, and Grafana.
 
 ---
 
-<img src="https://firebasestorage.googleapis.com/v0/b/generalsapi.appspot.com/o/Drop.jpeg?alt=media&token=ebcd31c6-8d58-45c1-8c13-53f3c01c959e" alt="Droppofy Logo" width="50" />  
-### **Droppofy (Part-time Software Engineer)**  
-**Feb 2022 - Jan 2023**  
+<p><img src="https://firebasestorage.googleapis.com/v0/b/generalsapi.appspot.com/o/Drop.jpeg?alt=media&token=ebcd31c6-8d58-45c1-8c13-53f3c01c959e" alt="Droppofy Logo" width="50" /></p> 
+
+### **Droppofy (Part-time Software Engineer)**
+**Feb 2022 - Jan 2023**
 - Reduced latency of fetching users' analytics data by 52% by caching on Redis to prevent redundant database calls  
 - Designed, implemented, and documented over 70% of the API endpoints with NodeJS and MongoDB
 
 ---
 
-<img src="[https://firebasestorage.googleapis.com/v0/b/generalsapi.appspot.com/o/Drop.jpeg?alt=media&token=ebcd31c6-8d58-45c1-8c13-53f3c01c959e](https://firebasestorage.googleapis.com/v0/b/generalsapi.appspot.com/o/Screenshot%202024-10-23%20at%2019.53.01.png?alt=media&token=bdfdea97-8967-46fe-9812-e70d4c34db88)" alt="Remote Africa" width="50" />  
-### **RemoteAfrica (Software Engineer Intern)**  
-**Sep 2020 - Dec 2020**  
+<p><img src="https://firebasestorage.googleapis.com/v0/b/generalsapi.appspot.com/o/Screenshot%202024-10-23%20at%2019.53.01.png?alt=media&token=bdfdea97-8967-46fe-9812-e70d4c34db88" alt="Remote Africa" width="200" /></p>  
+
+### RemoteAfrica (Software Engineer Intern)
+**Sep 2020 - Dec 2020**
 - Convinced a team of 11 to adopt effective MongoDB schema design patterns, leading to a 40% increase in the query speed.
 - Mentored a junior intern through pair programming sessions, enhancing their confidence and promoting teamwork.
 
