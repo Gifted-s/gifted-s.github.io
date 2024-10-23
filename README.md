@@ -133,7 +133,7 @@ _Passionate about Database Systems, Big Data, and Education_
 
 ## Skillset
 - **Technical Leadership**, **Technical Writing**, **Teaching**
-- **Data Modelling**,**SQL** **Rust**, **Golang**, **Node.js**, **Postgres**, **MongoDB**
+- **Data Modelling**,**SQL**, **Rust**, **Golang**, **Node.js**, **Postgres**, **MongoDB**
 - **Kubernetes**, **RabbitMQ**, **Redis**, **Jenkins**, **Git**, **Grafana**, **Kibana**
 
 ---
