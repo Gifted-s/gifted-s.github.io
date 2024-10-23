@@ -39,7 +39,7 @@ _B.Tech Computer Science_ (2017 - 2024)
 ## Research Experience
 
 ### Independent Researcher (Dec 2023 - Present)
-**Title:** Design and Implementation of a Road Safety Database in Nigeria  
+**Title:** VelarixDB, Tackling the Challenge of I/O Amplification in LSM Storage Engines
 **Advisor:** Professor O.C Akinyokun  
 **Synopsis:**  [Recognized](https://x.com/andy_pavlo/status/1820436583977275426) as the first database from Nigeria by Professor Andy Pavlo from Carnegie Mellon University. A key-value store that reduces IO amplification during compaction by separating keys from values inspired by the WiscKey Paper from the University of Wisconsin-Madison. It uses asynchronous IO based on the recent adoption of io_uring on Linux, showing up to [60%](https://github.com/tokio-rs/tokio-uring/blob/master/DESIGN.md#:~:text=show%20up%20to-,60%25%20improvement.,-Though%20not%20yet) improvement compared to epoll. Written in Rust for memory safety. WiscKey benchmarks shows 1.4 to 14 times faster random lookups and 2.5 to 111 times speedier database loading than RocksDB.
 
@@ -63,8 +63,6 @@ _B.Tech Computer Science_ (2017 - 2024)
 
 ## Professional Experience
 
-<p><img src="https://firebasestorage.googleapis.com/v0/b/generalsapi.appspot.com/o/AC.png?alt=media&token=b2d938ea-e9e9-41cd-83c8-2e05dec9a2d5" alt="Acronis Logo" width="50" />  </p>
-
 ### **Acronis (Senior Software Engineer) Jan 2023 - Jan 2024**  
 - Built a data pipeline collecting and computing 45+ metrics for analysis.  
 - Ensured newly developed services aligned with customer needs.  
@@ -72,15 +70,11 @@ _B.Tech Computer Science_ (2017 - 2024)
 
 ---
 
-<p><img src="https://firebasestorage.googleapis.com/v0/b/generalsapi.appspot.com/o/Drop.jpeg?alt=media&token=ebcd31c6-8d58-45c1-8c13-53f3c01c959e" alt="Droppofy Logo" width="90" /></p> 
-
 ### **Droppofy (Part-time Software Engineer) Feb 2022 - Jan 2023**
 - Reduced latency of fetching users' analytics data by 52% by caching on Redis to prevent redundant database calls  
 - Designed, implemented, and documented over 70% of the API endpoints with NodeJS and MongoDB
 
 ---
-
-<p><img src="https://firebasestorage.googleapis.com/v0/b/generalsapi.appspot.com/o/Screenshot%202024-10-23%20at%2019.53.01.png?alt=media&token=bdfdea97-8967-46fe-9812-e70d4c34db88" alt="Remote Africa" width="200" /></p>  
 
 ### **RemoteAfrica (Software Engineer Intern) Sep 2020 - Dec 2020**
 - Convinced a team of 11 to adopt effective MongoDB schema design patterns, leading to a 40% increase in the query speed.
@@ -116,12 +110,13 @@ _B.Tech Computer Science_ (2017 - 2024)
 
 ## Leadership
 
-### Academic Coordinator, Christian Student Fellowship (CSF), Jun 2023 - Mar 2024
+### **Academic Coordinator, Christian Student Fellowship (CSF), Jun 2023 - Mar 2024**
 - Appointed and chaired 20 committee members to oversee an academic conference to enlighten students on scholarships, grants, and strategies for achieving academic excellence.
 - Oversaw the planning of timetables, conduction of pre-tests and pre-exams, and onboarding process for new tutors 
 
-### Technical Lead, EFina Hackathon  
-- Directed a team of 3 while building a savings and financial advisory platform, _Coin Planner_, which enables individuals and MSMEs to manage their spending by helping them save from periodic earnings. The team won a sum of [₦1.5 Million](https://efina.org.ng/publication/team-inclusion-wins-efinas-fintech4wd-hackathon/#:~:text=with%20Adebayo%20Olorunfemi%2C-,Adewumi%20Sunkanmi%2C,-and%20Aanuoluwa%20Babalola) 
+### **Technical Lead, EFina Hackathon Oct 2020 - Nov 2020**
+- Directed a team of 3 while building a savings and financial advisory platform, _Coin Planner_, which enables individuals and MSMEs to manage their spending by helping them save from periodic earnings. The team won a sum of [₦1.5 Million](https://efina.org.ng/publication/team-inclusion-wins-efinas-fintech4wd-hackathon/#:~:text=with%20Adebayo%20Olorunfemi%2C-,Adewumi%20Sunkanmi%2C,-and%20Aanuoluwa%20Babalola)
+  
 ---
 
 ## Conference Talk
@@ -140,8 +135,8 @@ _B.Tech Computer Science_ (2017 - 2024)
 
 ## Skillset
 - **Technical Leadership**, **Technical Writing**, **Teaching**
-- **Data Modelling**, **Rust**, **Golang**, **Node.js**, **Postgres**, **MongoDB**
-- **Kubernetes**, **Jenkins**, **Git**, **Grafana**, **Kibana**
+- **Data Modelling**,**SQL** **Rust**, **Golang**, **Node.js**, **Postgres**, **MongoDB**
+- **Kubernetes**, **RabbitMQ**, **Redis**, **Jenkins**, **Git**, **Grafana**, **Kibana**
 
 ---
 
