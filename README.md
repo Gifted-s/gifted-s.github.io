@@ -1,4 +1,4 @@
-![Adewumi Sunkanmi - Software Engineer](https://firebasestorage.googleapis.com/v0/b/generalsapi.appspot.com/o/DOC-20230730-WA0025?alt=media&token=3acc426d-96a6-46b5-9b3c-b764b11baed7)
+![Adewumi Sunkanmi - Software Engineer](https://images.pexels.com/photos/259915/pexels-photo-259915.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 # Adewumi Sunkanmi  
 **Software Engineer**  
@@ -50,7 +50,7 @@ _B.Tech Computer Science_ (2017 - 2024)
 
 ## Professional Experience
 
-### **Acronis (Part-time Senior Software Engineer)**  
+### **Acronis (Senior Software Engineer)**  
 **June 2023 - Present**  
 - Built a data pipeline collecting and computing 45+ metrics for analysis.  
 - Ensured newly developed services aligned with customer needs.  
