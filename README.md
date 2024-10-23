@@ -22,7 +22,7 @@ _Passionate about Database Systems, Big Data, and Education_
 
 ## Education  
 **Federal University of Technology Akure**  
-**Degree:** B.Tech Computer Science_ (2017 - 2024)  
+**Degree:** B.Tech Computer Science (2017 - 2024)  
 **Grade:** First Class Honors  
 **GPA:** 4.54/5.00 (Class Rank 3 of 50 students)  
 **Relevant Coursework:**  
@@ -37,14 +37,15 @@ _Passionate about Database Systems, Big Data, and Education_
 
 ## Research Experience
 
-### Independent Researcher (Dec 2023 - Present)
-**Title:** VelarixDB, Tackling the Challenge of I/O Amplification in LSM Storage Engines
-**Advisor:** Adewumi Sunkanmi
-**Synopsis:** [Recognized](https://x.com/andy_pavlo/status/1820436583977275426) as the first database from Nigeria by Professor Andy Pavlo from Carnegie Mellon University. A key-value store that reduces IO amplification during compaction by separating keys from values inspired by the WiscKey Paper from the University of Wisconsin-Madison. It uses asynchronous IO based on the recent adoption of io_uring on Linux, showing up to [60%](https://github.com/tokio-rs/tokio-uring/blob/master/DESIGN.md#:~:text=show%20up%20to-,60%25%20improvement.,-Though%20not%20yet) improvement compared to epoll. Written in Rust for memory safety. WiscKey benchmarks shows 1.4 to 14 times faster random lookups and 2.5 to 111 times speedier database loading than RocksDB.
+### Independent Researcher
+**Title:** VelarixDB, an LSM Storage Engine that reducing IO amplification significantly <br/>
+**Advisor:** Professor O.C Akinyokun  
+**Synopsis:** [Recognized](https://x.com/andy_pavlo/status/1820436583977275426) as the first database emerging from Nigeria by Professor Andy Pavlo from Carnegie Mellon University. VelarixDB is a key-value store that reduces IO amplification during compaction by separating keys from values inspired by the WiscKey Paper from the University of Wisconsin-Madison. It uses asynchronous IO based on the recent adoption of io_uring on Linux, showing up to [60%](https://github.com/tokio-rs/tokio-uring/blob/master/DESIGN.md#:~:text=show%20up%20to-,60%25%20improvement.,-Though%20not%20yet) improvement when compared to epoll. It is developed in Rust for memory safety. WiscKey benchmark shows 1.4 to 14 times faster random lookups and 2.5 to 111 times speedier database loading than RocksDB
 
-- Built experimental version with core features such as Size-Tiered Compaction, Garbage Collector, Crash Recovery, Bloom Filter, and Value Log, and MemTable
-- Improved concurrency by leveraging lock-free SkipMap from the Crossbeam library to store entries in MemTable
-- Uses asynchronous IO based on io_uring, showing up to 60% improvement compared to epoll.  
+- Built experimental version in Rust with features such as Size-Tier Compaction, Garbage Collector, Crash Recovery, Bloom Filter, and Value Log.
+- Leveraged a Lock-Free data structure (SkipMap) from the Crossbeam library for the Memtable, eliminating traditional locking mechanisms like Mutexes and reducing thread contention
+- Published an article reviewed by Umesh Joshi to help other researchers understand the project design and motivation <br/>
+ [Official Documentation](https://crates.io/crates/velarixdb) | [Code](https://github.com/Gifted-s/velarixdb) | [WiscKey Paper](https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf)
 
 
 ### Undergraduate Thesis (Jun 2023 - Dec 2023)
