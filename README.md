@@ -139,5 +139,6 @@ _Passionate about Database Systems, Big Data, and Education_
 ---
 
 ## Extra Curricular Activities
-- **Men’s Gymnastics (Ekiti State Team):** Floor, Parallel Bars, and Vault Exercise  
-- **Pianist:** Jazz genre
+- **Pianist:** Jazz genre , Watch me play! [♫!](https://firebasestorage.googleapis.com/v0/b/generalsapi.appspot.com/o/IMG_0643.mov?alt=media&token=97125dba-7592-4259-b231-8776aced83b1)
+- **Men’s Gymnastics (Ekiti State Team):** Floor, Parallel Bars, and Vault Exercise  [Ekiti State Blog](https://www.ekitistate.gov.ng/archives/6116)
+
