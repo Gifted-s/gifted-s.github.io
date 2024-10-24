@@ -112,6 +112,7 @@ _Passionate about Database Systems, Big Data, and Education_
 - **Ekiti State Scholarship Award:**  Awarded by the Ekiti State Government for being on Dean's list by 2nd year at the Federal University of Technology Akure. A sum of ₦60,000 is awarded every session from the second year to the final year [Read More](https://www.ekitistate.gov.ng/archives/18923) <br/>
 - **Dean's List:** Placement on the [Dean's List](https://drive.google.com/file/d/1UMrIP8XLigWOWi6GEfqPjcHKgoBPXqkT/view) for the 2018/2019 academic session by the Senate of the Federal University of Technology Akure after achieving a 4.72 GPA in the 2017/2018 academic session. <br/>
 - **Awards of Community Service:** [View All](https://drive.google.com/file/d/1iBsmMJ4lMY2i0KX25FiokFZeIu6v0eCB/view?usp=sharing)
+  
 ---
 
 ## Leadership
