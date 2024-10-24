@@ -49,13 +49,19 @@ _Passionate about Database Systems, Big Data, and Education_
 
 ### Undergraduate Thesis (Jun 2023 - Dec 2023)
 **Title:** Design and Implementation of a Road Safety Database in Nigeria  
-**Advisor:** Professor O.C Akinyokun  
+**Advisor:** Professor O.C Akinyokun  [Google Scholar Profile](https://scholar.google.com/citations?user=4l_GGDQAAAAJ&hl=en) <br/>
 **Synopsis:** A relational database that integrates verified datasets from major institutions involved in road safety in Nigeria, such as the Federal Road Safety Corps (FRSC), the World Health Organization (WHO), and the National Bureau of Statistics (NBS), to help research groups generate and publish accurate statistics.
 
 - Leveraged ETL (Extract, Transform, Load) mechanism to consolidate road safety data from various agencies, enabling comprehensive and more accurate data analytics for research groups and policymakers.
 - Modelled all entities (32) using Entity Relationship Diagram to showcase all entities and the relationships between them  
 - Implemented indexing by location to optimize the performance of queries related to geographical data   
 - Wrote SQL queries to generate 10 statistics on road accidents presented during the final year project defence
+
+---
+
+## Conference Talk
+- **SysConf 2023:** "Demystifying Data Structures Behind Database Storage Engines"  
+  _Audience: 200+ ([Virtual](https://www.youtube.com/@sysdsgn))_
 
 ---
 
@@ -78,7 +84,9 @@ _Passionate about Database Systems, Big Data, and Education_
 - Convinced a team of 11 to adopt effective MongoDB schema design patterns, leading to a 40% increase in the query speed.
 - Mentored a junior intern through pair programming sessions, enhancing their confidence and promoting teamwork.
 
+
 ---
+
 
 ## Teaching Experience
 
@@ -103,7 +111,7 @@ _Passionate about Database Systems, Big Data, and Education_
 ## Awards & Scholarships
 - **Ekiti State Scholarship Award:**  Awarded to students on first-class GPA by their second year. A sum of ₦60,000 is awarded every session from the second year to the final year
 - **Dean's List:** Placement on the [Dean's List](https://drive.google.com/file/d/1UMrIP8XLigWOWi6GEfqPjcHKgoBPXqkT/view) for the 2018/2019 academic session by the Senate of the Federal University of Technology Akure after achieving a 4.72 GPA in the 2017/2018 academic session
-
+- **Awards of Community Service:** [View All](https://drive.google.com/file/d/1iBsmMJ4lMY2i0KX25FiokFZeIu6v0eCB/view?usp=sharing)
 ---
 
 ## Leadership
@@ -115,12 +123,6 @@ _Passionate about Database Systems, Big Data, and Education_
 ### **Technical Lead, EFina Hackathon Oct 2020 - Nov 2020**
 - Directed a team of 3 while building a savings and financial advisory platform, _Coin Planner_, which enables individuals and MSMEs to manage their spending by helping them save from periodic earnings. The team won a sum of [₦1.5 Million](https://efina.org.ng/publication/team-inclusion-wins-efinas-fintech4wd-hackathon/#:~:text=with%20Adebayo%20Olorunfemi%2C-,Adewumi%20Sunkanmi%2C,-and%20Aanuoluwa%20Babalola)
   
----
-
-## Conference Talk
-- **SysConf 2023:** "Demystifying Data Structures Behind Database Storage Engines"  
-  _Audience: 200+ ([Virtual](https://www.youtube.com/@sysdsgn))_
-
 ---
 
 ## Volunteer Experience
