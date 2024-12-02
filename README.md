@@ -9,7 +9,8 @@
 # Adewumi Sunkanmi D.
 _Passionate about Database Systems, Big Data, and Education_
 
-<p>Data is crucial to many organizations, from driving decisions to training AI models. Despite this immense potential, it can come from diverse sources in different formats, structures, and sizes, making data management non-trivial. The wide range of use cases for data provides ample room for innovation inspiring my interest in Database Systems, Big Data Analytics and Data Engineering.</p>
+<p>Data is crucial to many organizations, from driving decisions to training AI models. Despite this immense potential, it can come from diverse sources in different formats, structures, and sizes, making data management non-trivial. The wide range of use cases for data provides ample room for innovation inspiring my interest in Database Systems, Big Data Analytics and Data Engineering. My most recent is project is <a href="https://x.com/andy_pavlo/status/1820436583977275426" target="_blank">VelarixDB</a>
+ which leverages the high throughput that <i>io_uring</i> provides and also reduce IO amplification by up to 50x by adopting the WiscKey paper from the University of Wisconsin-Madison. I come from a developing country (Nigeria) where database research is not a thing yet but I believe scientific contributions have no boundaries. I have a long term goal to persuade the organizers of VLDB conference  to host at least one conference in Nigeria, perherps this would make Nigerians see themselves as part of the broader database community.</p>
 
 ---
 
@@ -40,10 +41,11 @@ _Passionate about Database Systems, Big Data, and Education_
 ### Independent Researcher
 **Title:** VelarixDB, an LSM Storage Engine that reduces IO amplification <br/>
 **Advisor:** Adewumi Sunkanmi (self)  
-**Synopsis:** [Recognized](https://x.com/andy_pavlo/status/1820436583977275426) as the first database emerging from Nigeria by Professor Andy Pavlo from Carnegie Mellon University. VelarixDB is a key-value store that reduces IO amplification during compaction by separating keys from values inspired by the WiscKey Paper from the University of Wisconsin-Madison. It uses asynchronous IO based on the recent adoption of io_uring on Linux, showing up to [60%](https://github.com/tokio-rs/tokio-uring/blob/master/DESIGN.md#:~:text=show%20up%20to-,60%25%20improvement.,-Though%20not%20yet) improvement when compared to epoll. It is developed in Rust for memory safety. WiscKey benchmark shows 1.4 to 14 times faster random lookups and 2.5 to 111 times speedier database loading than RocksDB.
+**Synopsis:** [Recognized](https://x.com/andy_pavlo/status/1820436583977275426) as the first database emerging from Nigeria by Professor Andy Pavlo from Carnegie Mellon University. VelarixDB is a key-value store that reduces IO amplification during compaction by separating keys from values inspired by the WiscKey Paper from the University of Wisconsin-Madison. It uses asynchronous IO based on the recent adoption of <i>io_uring</i> on Linux, showing up to [60%](https://github.com/tokio-rs/tokio-uring/blob/master/DESIGN.md#:~:text=show%20up%20to-,60%25%20improvement.,-Though%20not%20yet) higher throughput when compared to <i>epoll</i>. It is developed in Rust for memory safety. WiscKey benchmark shows 1.4 to 14 times faster random lookups and 2.5 to 111 times speedier database loading than RocksDB.
 
 - Built experimental version in Rust with features such as Size-Tier Compaction, Garbage Collector, Crash Recovery, Bloom Filter, and Value Log.
 - Leveraged a Lock-Free data structure (SkipMap) from the Crossbeam library for the Memtable, eliminating traditional locking mechanisms like Mutexes and reducing thread contention <br/>
+- Reduced IO amplification based on WiscKey model and then improved file IO throughput by adopting async IO with io_uring <br/>
  [Official Documentation](https://crates.io/crates/velarixdb) | [Code](https://github.com/Gifted-s/velarixdb) | [WiscKey Paper](https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf)
 
 
