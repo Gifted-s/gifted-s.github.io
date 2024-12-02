@@ -74,7 +74,7 @@ _Passionate about Database Systems, Big Data, and Education_
 
 ---
 
-### **Droppofy (Part-time Software Engineer), Feb 2022 - Jan 2023**
+### **Droppofy (Software Engineer), Feb 2022 - Jan 2023**
 - Reduced latency of fetching users' analytics data by 52% by caching on Redis to prevent redundant database calls  
 - Designed, implemented, and documented over 70% of the API endpoints with NodeJS and MongoDB
 
@@ -94,17 +94,14 @@ _Passionate about Database Systems, Big Data, and Education_
 - **CSC 201: Python Programming**  
   - ***Topics:*** Object Oriented Programming, Control Flows, Function, Data Types. Variables, Modularization, Comments  
   - ***Duties:*** Taught theoretical and practical classes, prepared assignments and test questions, evaluated students’ performance
-  - ***Class Size:*** 70+ students
 
 - **CSC 305: Systems Programming in C**  
   - ***Topics:*** Socket programming, Control Flows, Data Types, Functions, Variable, Modularization, Library usage 
   - ***Duties:*** Taught theoretical and practical classes, prepared assignments and test questions, evaluated students’ performance
-  - ***Class Size***: 30+ students
 
 - **PHY 101, General Physics**  
   - ***Topics:*** Topics: Scalar and Vector Quantities, Kinematics, Projectile, Work, Power, Energy, Electricity, Equilibrium,  Gravitation 
   - ***Duties:*** Taught theoretical classes, prepared assignments and test questions, evaluated students’ performance
-  - ***Class Size:*** 100+ students
 
 ---
 
