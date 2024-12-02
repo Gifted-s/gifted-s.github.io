@@ -10,7 +10,7 @@
 _Passionate about Database Systems, Big Data, and Education_
 
 <p>Data is crucial to many organizations, from driving decisions to training AI models. Despite this immense potential, it can come from diverse sources in different formats, structures, and sizes, making data management non-trivial. The wide range of use cases for data provides ample room for innovation inspiring my interest in Database Systems, Big Data Analytics and Data Engineering. My most recent is project is <a href="https://x.com/andy_pavlo/status/1820436583977275426" target="_blank">VelarixDB</a>
- which leverages the high throughput that <i>io_uring</i> provides and also reduce IO amplification by up to 50x by adopting the WiscKey paper from the University of Wisconsin-Madison. I come from a developing country (Nigeria) where database research is not a thing yet but I believe scientific contributions have no boundaries. I have a long term goal to persuade the organizers of VLDB conference  to host at least one conference in Nigeria, perherps this would make Nigerians see themselves as part of the broader database community.</p>
+ which leverages the high throughput that <i>io_uring</i> provides and also reduce IO amplification by up to 50x by adopting the WiscKey paper from the University of Wisconsin-Madison. <br/> I come from a developing country (Nigeria) where database research is not a thing yet but I believe scientific contributions have no boundaries. I have a long term goal to persuade the organizers of VLDB conference  to host at least one conference in Nigeria, perherps this would make Nigerians see themselves as part of the broader database community.</p>
 
 ---
 
