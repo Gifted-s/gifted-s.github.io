@@ -9,10 +9,10 @@
 # Adewumi Sunkanmi D.
 _Passionate about Database Systems, Big Data, and Education_
 
-<p>Data is crucial to many organizations, from driving decisions to training AI models. Despite this immense potential, it can come from diverse sources in different formats, structures, and sizes, making data management non-trivial. The wide range of use cases for data provides ample room for innovation inspiring my interest in Database Systems, Big Data Analytics and Data Engineering. My most recent is project is <a href="https://x.com/andy_pavlo/status/1820436583977275426" target="_blank">VelarixDB</a>
- which leverages the high throughput that <i>io_uring</i> provides and also reduce IO amplification by up to 50x by adopting the WiscKey paper from the University of Wisconsin-Madison. </p>
+<p>Data is crucial to many organizations, from driving decisions to training AI models. Despite this immense potential, it can come from diverse sources in different formats, structures, and sizes, making data management non-trivial. The wide range of use cases for data provides ample room for innovation, inspiring my interest in Database Systems, Big Data Analytics, and Data Engineering. My most recent project is <a href="https://x.com/andy_pavlo/status/1820436583977275426" target="_blank">VelarixDB</a>
+ which leverages the high throughput that <i>io_uring</i> provides and also reduces IO amplification by up to 50x by adopting the WiscKey paper from the University of Wisconsin-Madison. </p>
 
-<p>I come from a developing country (Nigeria) where database research is not a thing yet but I believe scientific contributions have no boundaries. I have a long term goal to persuade the organizers of VLDB conference  to host at least one conference in Nigeria, perherps this would make Nigerians see themselves as part of the broader database community.</p>
+<p>I come from a developing country (Nigeria) where database research is not a thing yet, but I believe scientific contributions have no boundaries. I have a long-term goal to persuade the organizers of the VLDB conference to host at least one conference in Nigeria; perhaps this would make Nigerians see themselves as part of the broader database community.</p>
 
 ---
 
@@ -47,7 +47,7 @@ _Passionate about Database Systems, Big Data, and Education_
 
 - Built experimental version in Rust with features such as Size-Tier Compaction, Garbage Collector, Crash Recovery, Bloom Filter, and Value Log.
 - Leveraged a Lock-Free data structure (SkipMap) from the Crossbeam library for the Memtable, eliminating traditional locking mechanisms like Mutexes and reducing thread contention <br/>
-- Reduced IO amplification based on WiscKey model and then improved file IO throughput by adopting async IO with io_uring <br/>
+- Reduced IO amplification based on the WiscKey model and then improved file IO throughput by adopting async IO with io_uring <br/>
  [Official Documentation](https://crates.io/crates/velarixdb) | [Code](https://github.com/Gifted-s/velarixdb) | [WiscKey Paper](https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf)
 
 
@@ -59,7 +59,7 @@ _Passionate about Database Systems, Big Data, and Education_
 - Leveraged ETL (Extract, Transform, Load) mechanism to consolidate road safety data from various agencies, enabling comprehensive and more accurate data analytics for research groups and policymakers.
 - Modelled all entities (32) using Entity Relationship Diagram to showcase all entities and the relationships between them  
 - Implemented indexing by location to optimize the performance of queries related to geographical data   
-- Wrote SQL queries to generate 10 statistics on road accidents presented during the final year project defence
+- Wrote SQL queries to generate 10 statistics on road accidents presented during the final year project defense
 
 ---
 
@@ -73,7 +73,7 @@ _Passionate about Database Systems, Big Data, and Education_
 
 ### **Acronis (Senior Software Engineer), Jan 2023 - Jan 2024**  
 - Built a data pipeline that periodically collects and computes 45 metrics and sends it to the data warehouse for analysis, used by product managers to determine aspects of the product to improve.
-- Ensured a newly developed service, Advanced Automation, align with customer needs by coordinating meetings with the Acronis Customer Experience (ACEP) team
+- Ensured a newly developed service, Advanced Automation, aligned with customer needs by coordinating meetings with the Acronis Customer Experience (ACEP) team
 - Resolved 50+ bugs using Kubernetes pod logs, Kibana logs, Grafana and collaborating with the QA team, 
 
 ---
@@ -85,7 +85,7 @@ _Passionate about Database Systems, Big Data, and Education_
 ---
 
 ### **RemoteAfrica (Software Engineer Intern), Sep 2020 - Dec 2020**
-- Convinced a team of 11 to adopt effective MongoDB schema design patterns, leading to a 40% increase in the query speed.
+- Convinced a team of 11 to adopt effective MongoDB schema design patterns, leading to a 40% increase in query speed.
 - Mentored a junior intern through pair programming sessions, enhancing their confidence and promoting teamwork.
 
 
@@ -110,7 +110,7 @@ _Passionate about Database Systems, Big Data, and Education_
 ---
 
 ## Awards & Scholarships
-- **Ekiti State Scholarship Award:**  Awarded by the Ekiti State Government for being on Dean's list by 2nd year at the Federal University of Technology Akure. A sum of ₦60,000 is awarded every session from the second year to the final year [Read More](https://www.ekitistate.gov.ng/archives/18923) <br/>
+- **Ekiti State Scholarship Award:**  Awarded by the Ekiti State Government for being on the Dean's list by 2nd year at the Federal University of Technology Akure. A sum of ₦60,000 is awarded every session from the second year to the final year [Read More](https://www.ekitistate.gov.ng/archives/18923) <br/>
 - **Dean's List:** Placement on the [Dean's List](https://drive.google.com/file/d/1UMrIP8XLigWOWi6GEfqPjcHKgoBPXqkT/view) for the 2018/2019 academic session by the Senate of the Federal University of Technology Akure after achieving a 4.72 GPA in the 2017/2018 academic session. <br/>
 - **Awards of Community Service:** [View All](https://drive.google.com/file/d/1iBsmMJ4lMY2i0KX25FiokFZeIu6v0eCB/view?usp=sharing)
   
@@ -143,6 +143,6 @@ _Passionate about Database Systems, Big Data, and Education_
 ---
 
 ## Extra Curricular Activities
-- **Pianist:** Jazz genre , Watch me play! [♫!](https://drive.google.com/file/d/1Oc-XcdZHvhnOCG9Xm4bv6m47AHfW7a_u/view?usp=sharing)
+- **Pianist:** Jazz genre, Watch me play! [♫!](https://drive.google.com/file/d/1Oc-XcdZHvhnOCG9Xm4bv6m47AHfW7a_u/view?usp=sharing)
 - **Men’s Gymnastics (Ekiti State Team):** Floor, Parallel Bars, and Vault Exercise  [Ekiti State Blog](https://www.ekitistate.gov.ng/archives/6116)
 
