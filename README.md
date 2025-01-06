@@ -103,7 +103,7 @@ _Passionate about Database Systems, Big Data, and Education_
   - ***Duties:*** Taught theoretical and practical classes, prepared assignments and test questions, evaluated students’ performance
 
 - **PHY 101, General Physics**  
-  - ***Topics:*** Topics: Scalar and Vector Quantities, Kinematics, Projectile, Work, Power, Energy, Electricity, Equilibrium,  Gravitation 
+  - ***Topics:*** Scalar and Vector Quantities, Kinematics, Projectile, Work, Power, Energy, Electricity, Equilibrium,  Gravitation 
   - ***Duties:*** Taught theoretical classes, prepared assignments and test questions, evaluated students’ performance
 
 ---
